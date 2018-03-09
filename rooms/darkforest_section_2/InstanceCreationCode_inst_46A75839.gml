@@ -1,0 +1,1 @@
+target = boss_room;
